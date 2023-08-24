@@ -850,7 +850,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	
 	#map {
 		width: 100%;
-		height: 400px;
+		height: 750px;
 	}
 
 
@@ -1395,4 +1395,15 @@ image1
   .button:hover {
     background-color: #e05500;
   }
-  
+   #nuestraUbicacion{
+	padding-top: 80px;
+   }
+   #productos{
+	padding-top: 90px;
+   }
+   #contactanos{
+	padding-top: 200px;
+   }
+   #autor{
+	padding-top: 90px;
+   }
